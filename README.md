@@ -16,3 +16,5 @@ This is a simple web project. Deployment can be anywhere on a web server or even
 
 ## How to contribute
 
+## Copyright section
+
