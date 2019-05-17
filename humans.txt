@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Khyati Sehgal 	sehgal.khyati22@gmail.com
 
 # THANKS
 
