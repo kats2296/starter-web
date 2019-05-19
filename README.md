@@ -1,7 +1,6 @@
 # Starter Web Repo
 
 This is a sample website for showing how Git and GitHub together. Adding a line for rebase, then more changes from myfeature branch.
-Working on stashing example
 
 ## Introduction
 
