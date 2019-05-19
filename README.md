@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a sample website for showing how Git and GitHub together.
+This is a sample website for showing how Git and GitHub together. Adding a line for rebase
 
 ## Introduction
 
