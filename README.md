@@ -19,3 +19,5 @@ Fork the repo and then create a pull request.
 
 ## Copyright section
 
+All rights reserved.
+
